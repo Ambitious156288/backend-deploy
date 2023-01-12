@@ -1,4 +1,5 @@
 {
+  "proxy": "https://kkalwik-praca-inz.web.app/",
   "name": "server",
   "version": "1.0.0",
   "description": "",
